@@ -582,11 +582,17 @@
       "goodLevel": 0,
       "maxLevel": 4
     },
-    "green_thumb": {
+    "green-thumb": {
       "loreName": "Green Thumb",
       "nbtName": "green_thumb",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "piscary": {
+      "loreName": "Piscary",
+      "nbtName": "piscary",
+      "goodLevel": 0,
+      "maxLevel": 6
     }
   },
   "ULTIMATE": {
