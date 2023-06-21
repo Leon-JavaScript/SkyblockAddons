@@ -599,6 +599,18 @@
       "nbtName": "reflection",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "transylvanian": {
+      "loreName": "Transylvanian",
+      "nbtName": "transylvanian",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "ULTIMATE": {
@@ -707,6 +719,12 @@
     "wisdom": {
       "loreName": "Wisdom",
       "nbtName": "ultimate_wisdom",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "the_one",
       "goodLevel": 0,
       "maxLevel": 5
     }
