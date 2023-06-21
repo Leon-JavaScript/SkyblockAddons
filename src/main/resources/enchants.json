@@ -591,8 +591,14 @@
     "piscary": {
       "loreName": "Piscary",
       "nbtName": "piscary",
-      "goodLevel": 0,
+      "goodLevel": 5,
       "maxLevel": 6
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": "reflection",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "ULTIMATE": {
