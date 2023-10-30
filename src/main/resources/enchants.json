@@ -611,6 +611,12 @@
       "nbtName": "transylvanian",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "great spook": {
+      "loreName": "Great Spook",
+      "nbtName": "great_spook",
+      "goodLevel": 0,
+      "maxLevel": 1
     }
   },
   "ULTIMATE": {
