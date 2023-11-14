@@ -573,8 +573,8 @@
     "sunder": {
       "loreName": "Sunder",
       "nbtName": "sunder",
-      "goodLevel": 0,
-      "maxLevel": 5
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "dedication": {
       "loreName": "Dedication",
@@ -617,6 +617,12 @@
       "nbtName": "great_spook",
       "goodLevel": 0,
       "maxLevel": 1
+    },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "ULTIMATE": {
