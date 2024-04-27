@@ -623,6 +623,18 @@
       "nbtName": "pesterminator",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "ice cold": {
+      "loreName": "Ice Cold",
+      "nbtName": "ice_cold",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "paleontologist": {
+      "loreName": "Paleontologist",
+      "nbtName": "paleontologist",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "ULTIMATE": {
