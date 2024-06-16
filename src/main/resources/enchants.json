@@ -757,6 +757,12 @@
       "nbtName": "the_one",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "STACKING": {
