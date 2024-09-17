@@ -763,6 +763,12 @@
       "nbtName": "ultimate_refrigerate",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "flowstate": {
+      "loreName": "Flowstate",
+      "nbtName": "flowstate",
+      "goodLevel": 1,
+      "maxLevel": 3
     }
   },
   "STACKING": {
