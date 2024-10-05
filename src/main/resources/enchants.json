@@ -641,6 +641,12 @@
       "nbtName": "prosperity",
       "goodLevel": 0,
       "maxLevel": 5
+    },
+    "lapidary": {
+      "loreName": "Lapidary",
+      "nbtName": "lapidary",
+      "goodLevel": 0,
+      "maxLevel": 5
     }
   },
   "ULTIMATE": {
